@@ -1,0 +1,17 @@
+# VPN Project Dependencies
+
+# Cryptography
+cryptography>=41.0.0
+
+# Async networking
+asyncio-compat>=0.0.1
+
+# Web dashboard (for monitoring)
+aiohttp>=3.8.0
+
+# For Windows TUN support (optional)
+# wintun>=0.1.0  # Uncomment for Windows deployment
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0

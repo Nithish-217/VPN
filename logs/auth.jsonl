@@ -1,0 +1,42 @@
+{"timestamp": "2026-03-15T16:32:41.345064", "event": "auth_success", "client_id": "('127.0.0.1', 62223)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-15T16:34:03.322181", "event": "auth_failure", "client_id": "('127.0.0.1', 57939)", "remote_ip": "127.0.0.1", "username": "/ HTTP/1.1\r\nHost", "severity": "WARNING"}
+{"timestamp": "2026-03-15T16:34:04.462902", "event": "auth_failure", "client_id": "('127.0.0.1', 57477)", "remote_ip": "127.0.0.1", "username": "/ HTTP/1.1\r\nHost", "severity": "WARNING"}
+{"timestamp": "2026-03-15T16:34:05.483037", "event": "auth_failure", "client_id": "('127.0.0.1', 61792)", "remote_ip": "127.0.0.1", "username": "/ HTTP/1.1\r\nHost", "severity": "WARNING"}
+{"timestamp": "2026-03-15T16:34:10.619899", "event": "auth_failure", "client_id": "('127.0.0.1', 59857)", "remote_ip": "127.0.0.1", "username": "/ HTTP/1.1\r\nHost", "severity": "WARNING"}
+{"timestamp": "2026-03-15T16:34:40.730128", "event": "auth_failure", "client_id": "('127.0.0.1', 62565)", "remote_ip": "127.0.0.1", "username": "/ HTTP/1.1\r\nHost", "severity": "WARNING"}
+{"timestamp": "2026-03-15T16:35:40.827071", "event": "auth_failure", "client_id": "('127.0.0.1', 61363)", "remote_ip": "127.0.0.1", "username": "/ HTTP/1.1\r\nHost", "severity": "WARNING"}
+{"timestamp": "2026-03-15T16:40:41.181259", "event": "auth_failure", "client_id": "('127.0.0.1', 52552)", "remote_ip": "127.0.0.1", "username": "/ HTTP/1.1\r\nHost", "severity": "WARNING"}
+{"timestamp": "2026-03-15T16:41:57.979180", "event": "auth_failure", "client_id": "('127.0.0.1', 53120)", "remote_ip": "127.0.0.1", "username": "/ HTTP/1.1\r\nHost", "severity": "WARNING"}
+{"timestamp": "2026-03-15T16:50:34.411145", "event": "auth_success", "client_id": "('127.0.0.1', 51823)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-15T16:52:13.327320", "event": "auth_success", "client_id": "('127.0.0.1', 60396)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-15T16:52:43.217785", "event": "auth_success", "client_id": "('127.0.0.1', 59269)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-15T16:53:20.596085", "event": "auth_success", "client_id": "('127.0.0.1', 59298)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-15T17:45:34.736142", "event": "auth_success", "client_id": "('127.0.0.1', 63147)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-15T18:43:38.341820", "event": "auth_success", "client_id": "('127.0.0.1', 64598)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-15T21:10:29.684773", "event": "auth_success", "client_id": "('127.0.0.1', 64044)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-16T14:42:08.562748", "event": "auth_failure", "client_id": "('127.0.0.1', 54704)", "remote_ip": "127.0.0.1", "username": "AUTH", "severity": "WARNING"}
+{"timestamp": "2026-03-16T14:42:44.501152", "event": "auth_success", "client_id": "('127.0.0.1', 54196)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-16T14:44:12.493826", "event": "auth_success", "client_id": "('127.0.0.1', 64552)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-16T21:26:24.142915", "event": "auth_success", "client_id": "('127.0.0.1', 58335)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-16T21:31:36.732259", "event": "auth_success", "client_id": "('127.0.0.1', 52278)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-16T21:46:15.492357", "event": "auth_success", "client_id": "('127.0.0.1', 65176)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-16T21:47:13.471075", "event": "auth_success", "client_id": "('127.0.0.1', 50316)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T06:52:56.760412", "event": "auth_success", "client_id": "('127.0.0.1', 50550)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:12:25.800222", "event": "auth_success", "client_id": "('127.0.0.1', 51136)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:14:01.494649", "event": "auth_success", "client_id": "('127.0.0.1', 58538)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:16:01.748588", "event": "auth_success", "client_id": "('127.0.0.1', 51411)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:22:16.531780", "event": "auth_success", "client_id": "('127.0.0.1', 61558)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:24:47.667839", "event": "auth_success", "client_id": "('127.0.0.1', 62494)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:25:36.913682", "event": "auth_success", "client_id": "('127.0.0.1', 60971)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:26:21.214823", "event": "auth_success", "client_id": "('127.0.0.1', 64259)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:27:04.799490", "event": "auth_success", "client_id": "('127.0.0.1', 64321)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:30:50.478098", "event": "auth_success", "client_id": "('127.0.0.1', 64442)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:32:15.820028", "event": "auth_success", "client_id": "('127.0.0.1', 58353)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:34:54.545761", "event": "auth_success", "client_id": "('127.0.0.1', 64043)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:36:48.074848", "event": "auth_success", "client_id": "('127.0.0.1', 53391)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:38:57.462843", "event": "auth_success", "client_id": "('127.0.0.1', 64113)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:39:42.995316", "event": "auth_success", "client_id": "('127.0.0.1', 54769)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:44:58.651036", "event": "auth_success", "client_id": "('127.0.0.1', 61211)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:48:06.286792", "event": "auth_success", "client_id": "('127.0.0.1', 62117)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:52:16.042108", "event": "auth_success", "client_id": "('127.0.0.1', 60257)", "remote_ip": "127.0.0.1", "username": "user1"}
+{"timestamp": "2026-03-17T07:54:33.546232", "event": "auth_success", "client_id": "('127.0.0.1', 59355)", "remote_ip": "127.0.0.1", "username": "user1"}
